@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PostalCode</string>
+    <string name="input_text_like_hr_53000">Unesi poštanski broj...</string>
+    <string name="list_all">List all</string>
+    <string name="get_places">Traži mjesta</string>
+    <string name="nazad">Nazad</string>
+    <string name="id">ID</string>
+    <string name="latidude">Latitude</string>
+    <string name="longitude">Longitude</string>
+    <string name="REST_problem">Problem s učitanjem podataka</string>
+    <string name="title_activity_detalji">Detalji</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+</resources>
